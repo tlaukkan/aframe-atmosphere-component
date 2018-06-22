@@ -1,10 +1,9 @@
 {
   "name": "@tlaukkan/aframe-atmosphere-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A-Frame Atmosphere Component",
   "main": "atmosphere.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tlaukkan/aframe-atmosphere-component.git"
@@ -20,8 +19,6 @@
     "url": "https://github.com/tlaukkan/aframe-atmosphere-component/issues"
   },
   "homepage": "https://github.com/tlaukkan/aframe-atmosphere-component#readme",
-  "devDependencies": {
-  },
-  "dependencies": {
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
